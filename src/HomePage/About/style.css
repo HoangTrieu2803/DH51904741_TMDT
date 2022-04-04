@@ -1,0 +1,22 @@
+.row{
+    margin: 0 !important;
+}
+.col-sm-6{
+    padding-left: 0 !important;
+}
+.about-right{
+    padding-left: 50px !important;
+    padding-top: 50px;
+    background-color: var(--main-color);
+    color: white;
+}
+.about-right p{
+    color: black;
+    font-size: var(--normalSize-font-size);
+}
+.about-comment{
+    padding: 20px;
+    background-color: var(--btnColor-color);
+    color: var(--main-color);
+    border-radius: 5px;
+}

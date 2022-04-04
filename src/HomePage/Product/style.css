@@ -1,0 +1,26 @@
+.product{
+    background-color: var(--second-color);
+}
+.nav-item a{
+    color: white !important;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: var(--main-color) !important;
+}
+.product-item{
+    margin: auto !important;
+
+}
+.col-sm-4{
+    padding: 10px 0 !important;
+}
+.card{
+    background-color: transparent !important;
+}
+.card-body{
+    color: white;
+    padding: 10px 0 !important;
+}
+.col-sm-8{
+    padding-left: 0 !important;
+}

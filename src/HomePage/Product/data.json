@@ -1,0 +1,38 @@
+[
+    {
+        "id" :"1",
+        "tenSP":"SanPham1",
+        "giaSP":190000,
+        "hinhAnh": "/img/sp6.png"
+    },
+    {
+        "id" :"2",
+        "tenSP":"SanPham2",
+        "giaSP":180000,
+        "hinhAnh": "/img/sp2.jpg"
+    },
+    {
+        "id" :"3",
+        "tenSP":"SanPham3",
+        "giaSP":200000,
+        "hinhAnh": "/img/sp3.jpg"
+    },
+    {
+        "id" :"4",
+        "tenSP":"SanPham4",
+        "giaSP":230000,
+        "hinhAnh": "/img/sp4.jpg"
+    },
+    {
+        "id" :"5",
+        "tenSP":"SanPham5",
+        "giaSP":300000,
+        "hinhAnh": "/img/sp5.jpg"
+    },
+    {
+        "id" :"6",
+        "tenSP":"SanPham6",
+        "giaSP":140000,
+        "hinhAnh": "/img/product.png"
+    }
+]

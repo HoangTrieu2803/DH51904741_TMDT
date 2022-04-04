@@ -1,0 +1,12 @@
+.top-footer{
+    background-color: var(--main-color);
+    color: white;
+}
+.footer-title{
+    color: black;
+}
+.btn-success{
+    background-color: var(--btnColor-color) !important;
+    color: black !important;
+    border: none;
+}

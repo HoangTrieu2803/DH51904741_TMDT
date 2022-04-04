@@ -1,0 +1,27 @@
+[
+    {
+        "id" :"1",
+        "tenSP":"SanPham1",
+        "giaSP":"180.000d"
+    },
+    {
+        "id" :"2",
+        "tenSP":"SanPham2",
+        "giaSP":"180.000d"
+    },
+    {
+        "id" :"3",
+        "tenSP":"SanPham3",
+        "giaSP":"180.000d"
+    },
+    {
+        "id" :"4",
+        "tenSP":"SanPham4",
+        "giaSP":"180.000d"
+    },
+    {
+        "id" :"5",
+        "tenSP":"SanPham5",
+        "giaSP":"180.000d"
+    }
+]

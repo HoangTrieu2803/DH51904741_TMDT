@@ -1,0 +1,15 @@
+.cart-modal{
+    position: absolute;
+    top: 100%;
+    right: 0;
+    height: calc(100vh- 9.5rem);
+    background-color: white;
+    padding: 0 1.5rem;
+}
+.cart-modal .cart-active{
+    right: 0;
+}
+.cart-item{
+    margin: 2rem 0;
+    gap: 1.5rem;
+}

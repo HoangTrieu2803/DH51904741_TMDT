@@ -1,0 +1,47 @@
+.detail{
+    background-color: var(--second-color);
+}
+.detail-body{
+    background-color: var(--main-color);
+    font-size: var(--normalSize-font-size);
+    border-radius: 20px;
+}
+.detail-body img{
+    padding: 20px;
+    width: 70%;
+    object-fit: cover;
+}
+.right-body{
+    padding: 20px;
+    position: relative;
+}
+.left-body{
+    text-align: center;
+}
+.right-body h4{
+    color: white;
+}
+.decs{
+    padding-bottom: 50px;
+}
+.decs p{
+    color: white;
+    font-size: var(--normalSize-font-size) - 5px;
+    
+}
+.decs span{
+    color: var(--main-color);
+    font-size: 30px;
+    font-weight: bold;
+}
+hr{
+    background-color: var(--main-color);
+}
+.btn-success{
+    color: var(--main-color) !important;
+    border: none !important;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    bottom: 20px;
+}

@@ -1,0 +1,8 @@
+#my-carousel .carousel-item img{
+    height: 600px;
+    object-fit: cover;
+}
+.carousel-control-next, .carousel-control-prev{
+    background-color: transparent !important;
+    border: none !important;
+}
