@@ -26,6 +26,9 @@ export default function CartModal() {
       else {
         if (listCart[index].soLuong > 1) {
           listCart[index].soLuong -= 1
+        }else if(listCart[index].soLuong <= 1)
+        {
+          listCart.splice(index, 1)
         }
       }
       setListProduct(listCart);
@@ -38,7 +41,6 @@ export default function CartModal() {
       listCart.splice(index, 1);
     }
     setListProduct(listCart)
-    console.log(listProduct)
   };
   const renderProduct = () => {
     return product?.map((item, index) => {
